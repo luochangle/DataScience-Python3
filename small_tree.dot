@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, style="rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label="temp_1 <= 59.5\nmse = 137.2333\nsamples = 176\nvalue = 61.6763"] ;
+1 [label="average <= 46.75\nmse = 44.0092\nsamples = 73\nvalue = 50.4615"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="month <= 6.5\nmse = 13.5718\nsamples = 23\nvalue = 42.3235"] ;
+1 -> 2 ;
+3 [label="mse = 6.6875\nsamples = 8\nvalue = 45.75"] ;
+2 -> 3 ;
+4 [label="mse = 7.4298\nsamples = 15\nvalue = 40.4545"] ;
+2 -> 4 ;
+5 [label="temp_2 <= 57.5\nmse = 18.2352\nsamples = 50\nvalue = 53.7952"] ;
+1 -> 5 ;
+6 [label="mse = 10.6622\nsamples = 37\nvalue = 51.9333"] ;
+5 -> 6 ;
+7 [label="mse = 5.3573\nsamples = 13\nvalue = 58.6522"] ;
+5 -> 7 ;
+8 [label="average <= 67.1\nmse = 47.1623\nsamples = 103\nvalue = 69.8261"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="temp_1 <= 66.5\nmse = 34.6218\nsamples = 49\nvalue = 65.5811"] ;
+8 -> 9 ;
+10 [label="mse = 14.0119\nsamples = 28\nvalue = 63.7073"] ;
+9 -> 10 ;
+11 [label="mse = 50.4463\nsamples = 21\nvalue = 67.9091"] ;
+9 -> 11 ;
+12 [label="temp_1 <= 68.5\nmse = 29.4644\nsamples = 54\nvalue = 73.4368"] ;
+8 -> 12 ;
+13 [label="mse = 14.071\nsamples = 11\nvalue = 66.9231"] ;
+12 -> 13 ;
+14 [label="mse = 23.4056\nsamples = 43\nvalue = 74.5811"] ;
+12 -> 14 ;
+}
