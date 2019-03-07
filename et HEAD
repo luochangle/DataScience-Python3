@@ -1,0 +1,102 @@
+[33mcommit d30e329edc0f4c7f4eeea559fd210942e79371ae[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Sisi Chen <cssamanda1989@gmail.com>
+Date:   Thu Mar 7 15:53:34 2019 -0700
+
+    kmeans
+
+[33mcommit ac01ec64caca39350ef6c161e8a8ea125d224183[m
+Author: Sisi Chen <cssamanda1989@gmail.com>
+Date:   Thu Mar 7 15:29:15 2019 -0700
+
+    kmeans examples
+
+[33mcommit 288b132ecbb63cf0de2670e6ada4beb509a88792[m
+Author: Sisi Chen <cssamanda1989@gmail.com>
+Date:   Thu Mar 7 15:12:17 2019 -0700
+
+    kmeans examples
+
+[33mcommit 3a953f3436f745f11fb4d46c82fb2290d70433b5[m
+Author: Sisi Chen <cssamanda1989@gmail.com>
+Date:   Thu Mar 7 14:43:21 2019 -0700
+
+    Kmeans example 1
+
+[33mcommit a74d7c676d6bebdd4b8f71c928686154f815507b[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Sisi Chen <cssamanda1989@gmail.com>
+Date:   Thu Mar 7 12:14:49 2019 -0700
+
+    RF Regressor
+
+[33mcommit d6cd0035004f1c5bd3a5144cd7949822f0b95d1c[m
+Author: Sisi Chen <cssamanda1989@gmail.com>
+Date:   Wed Mar 6 16:50:11 2019 -0700
+
+    Random Forest
+
+[33mcommit 350a37dd3569c25238c96fed91fb63e88a420a21[m
+Author: cssam <cssamanda1989@gmail.com>
+Date:   Wed Mar 6 06:38:40 2019 -0700
+
+    Conditional Probability
+
+[33mcommit d0245c65d714d88550e7d598dfca890cadb4a4ae[m
+Author: Sisi Chen <cssamanda1989@gmail.com>
+Date:   Tue Mar 5 17:05:43 2019 -0700
+
+    DT
+
+[33mcommit d82c8a7312e32d46c20e9ceefd296fd8aec36f23[m
+Author: Sisi Chen <cssamanda1989@gmail.com>
+Date:   Tue Mar 5 17:02:51 2019 -0700
+
+    NB
+
+[33mcommit 45131ad1f158cdf5b112b1c7983822fa840cc2a3[m
+Merge: 22242a2 37966aa
+Author: Sisi Chen <cssamanda1989@gmail.com>
+Date:   Tue Mar 5 14:07:12 2019 -0700
+
+    Naive Bayes
+
+[33mcommit 22242a2c6c6267e51f87fa32a6320bfc64253d01[m
+Author: Sisi Chen <cssamanda1989@gmail.com>
+Date:   Tue Mar 5 14:04:29 2019 -0700
+
+    Naive Bayes
+
+[33mcommit 37966aa384f8cb2d0aa99888da576b8b2a060c4b[m
+Author: cssam <cssamanda1989@gmail.com>
+Date:   Mon Mar 4 22:50:13 2019 -0700
+
+    Decision Tree
+
+[33mcommit 24ed90b7ad563b8acee2027875d759cad7610bb9[m
+Author: Sisi Chen <cssamanda1989@gmail.com>
+Date:   Mon Mar 4 16:57:51 2019 -0700
+
+    PCA
+
+[33mcommit fcb2cb27f6d90d9fac2fecbe3b6dd3d0aa3cfc2f[m
+Author: Sisi Chen <cssamanda1989@gmail.com>
+Date:   Thu Feb 28 16:56:41 2019 -0700
+
+    Naive Bayes
+
+[33mcommit 87a9f98577ffb352274230d7d212111c38e2ec15[m
+Author: Sisi Chen <cssamanda1989@gmail.com>
+Date:   Wed Feb 27 16:06:41 2019 -0700
+
+    test/train
+
+[33mcommit b2e7aebb7eaab1d082d1e4f2ae299c5ec443fdae[m
+Author: Sisi Chen <cssamanda1989@gmail.com>
+Date:   Wed Feb 27 12:06:10 2019 -0700
+
+    change2
+
+[33mcommit 3f4ac7a1597324326dad4aa17217ddcd79190994[m
+Author: Sisi Chen <cssamanda1989@gmail.com>
+Date:   Tue Feb 26 10:33:44 2019 -0700
+
+    First Commit
